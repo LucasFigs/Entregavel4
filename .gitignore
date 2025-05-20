@@ -1,0 +1,29 @@
+# Dependências
+node_modules/
+
+# Relatórios de teste e cobertura
+coverage/
+*.lcov
+
+# Arquivos de ambiente
+.env
+.env.local
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs e configurações locais
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp.*
+
+# IDE/Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
